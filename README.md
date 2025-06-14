@@ -5,12 +5,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **MERN Stack** projects and learning **Python** for Agentic AI.
-- 🧠 Learning deeply about **OpenAI Agents SDK** and **AI-based tools.**
-- 👯 Looking to collaborate on **open-source projects and innovation-driven teams.**
-- ✍️ I also write blogs on [Medium](https://medium.com/@arishah_khan)
+- 🔭 Currently building **MERN Stack** projects and diving into **Python** for Agentic AI.
+- 🤖 Exploring **OpenAI Agents SDK**, prompt engineering, and AI-based workflows.
+- 👯 Open to collaborating on **open-source**, **AI**, and **innovation-driven** projects.
+- ✍️ I share insights and write blogs on [Medium](https://medium.com/@arishah_khan).
 - 📫 Reach me at: **arishahsanaullah78@gmail.com**
-- 🌐 Portfolio: [https://arishah-khan-portfolio.vercel.app](https://arishah-khan-portfolio.vercel.app)
+- 🌐 Portfolio: [arishah-khan-portfolio.vercel.app](https://arishah-khan-portfolio.vercel.app)
 - 📄 [My Resume](https://drive.google.com/file/d/1TGURxcBgQiyCb3W9pCozvVoZprc6ja8m/view)
 
 ---
@@ -76,7 +76,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arishah-khan&show_icons=true&theme=default" width="400" />
@@ -86,5 +86,5 @@
 ---
 
 ### 🧠 Fun Fact  
-**I love turning ideas into real projects and learning new tech every day!**
+I love turning ideas into real-world projects and exploring emerging technologies every day!
 
