@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arishah Khan</h1>
+<h1 align="center">Hey there 🌟, I'm Arishah Khan</h1>
 <h3 align="center">Full Stack Developer (MERN) | Exploring Agentic AI with OpenAI Agents SDK</h3>
 
 ---
