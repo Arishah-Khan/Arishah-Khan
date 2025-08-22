@@ -68,7 +68,7 @@
 
 <p align="left">
   <a href="https://x.com/arishah76986" target="_blank">Twitter</a> •
-  <a href="https://linkedin.com/in/arishah-khan" target="_blank">LinkedIn</a> •
+  <a href="https://linkedin.com/in/arishah-khan](https://www.linkedin.com/in/arishah-khan-b606092b8/" target="_blank">LinkedIn</a> •
   <a href="https://facebook.com/arishah.khan" target="_blank">Facebook</a> •
   <a href="https://instagram.com/arishah__khan" target="_blank">Instagram</a> •
   <a href="https://medium.com/@arishah_khan" target="_blank">Medium</a>
